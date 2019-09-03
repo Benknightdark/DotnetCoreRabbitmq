@@ -1,1 +1,0 @@
-# For Entity, Query and Command Models
