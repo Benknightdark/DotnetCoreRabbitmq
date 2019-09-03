@@ -106,7 +106,7 @@ namespace MicroRabbit.Infra.Bus
             catch (System.Exception exp)
             {
                 
-                throw;
+                throw exp;
             }
         }
 
